@@ -1,4 +1,4 @@
-# floatytabrevived
+# FloatyTabRevived
 
 Inspired by the original Floaty Tab thank you Dylan West
 
