@@ -1,0 +1,9 @@
+Package: com.mute.floatytabrevived
+Name: floatytabrevived
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Customize the UITabBar
+Maintainer: Mute
+Author: Mute
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
