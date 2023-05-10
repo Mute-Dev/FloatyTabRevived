@@ -13,5 +13,5 @@ floatytabrevived_FILES = Tweak.x
 floatytabrevived_CFLAGS = -fobjc-arc
 
 include $(THEOS_MAKE_PATH)/tweak.mk
-SUBPROJECTS += floatytabrevived
-include $(THEOS_MAKE_PATH)/aggregate.mk
+
+THEOS_PACKAGE_SCHEME=rootless
