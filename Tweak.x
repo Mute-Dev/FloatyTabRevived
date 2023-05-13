@@ -1,3 +1,9 @@
+// FloatyTabRevived by Mute, follow me on Twitter @Ieased
+
+// import headers
+#import "tweak.h"
+
+
 %hook UITabBar
 
 - (void)setFrame:(CGRect)frame {
