@@ -20,10 +20,11 @@ What's coming soon?
     Hide FloatyTab when scrolling (not 100% definitely)
 
 Compatible
-
+    
+    iOS 15
+    iOS 14
     iOS 13
-    iOS 12
-    iPhone 6S, 6S PLUS, 7, 7 PLUS, 8, 8 PLUS, X, XR, XS, XS MAX, 11, 11 PRO & 11 PRO MAX (Please NOTE iPhone SE are unsupported)
+    iPhone 8, 8 PLUS, X, XR, XS, XS MAX, 11, 11 PRO & 11 PRO MAX, 12, 12 PRO, 12 PRO MAX, 13, 13 PRO, 13 PRO MAX (Please NOTE iPhone SE are unsupported)
     iPad 
 
 Known Issues
@@ -33,4 +34,4 @@ Known Issues
 
 Support
 
-Follow me for an update and if you experience issue, report bugs by DM me on Twitter. Join my discord server here.
+Follow me for an update and if you experience issue, report bugs by DM me on Twitter. @Ieased Join my discord server here.
